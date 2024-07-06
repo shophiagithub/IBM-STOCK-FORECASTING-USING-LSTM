@@ -87,6 +87,31 @@ for _ in range(10):
     latest_prediction.append(prediction)
     last_seq = np.append(last_seq[:, 1:, :], [prediction], axis=1)
 ```
+
+## Visualizations
+
+![image](https://github.com/shophiagithub/IBM-STOCK-FORECASTING-USING-LSTM/assets/114874837/547a8f6b-2959-4d60-8aba-0acc7b10de6b)
+
+![image](https://github.com/shophiagithub/IBM-STOCK-FORECASTING-USING-LSTM/assets/114874837/adae0bea-517f-46f3-b9a7-7c130b7776c7)
+
+![image](https://github.com/shophiagithub/IBM-STOCK-FORECASTING-USING-LSTM/assets/114874837/af33d055-8b66-4d8e-b9d8-162ce9cbc47c)
+
+![image](https://github.com/shophiagithub/IBM-STOCK-FORECASTING-USING-LSTM/assets/114874837/e134747e-f737-41b9-85d8-7bae95c4725c)
+
+![image](https://github.com/shophiagithub/IBM-STOCK-FORECASTING-USING-LSTM/assets/114874837/81622ebf-31f2-4c45-b486-3993f9ab48e6)
+
+![image](https://github.com/shophiagithub/IBM-STOCK-FORECASTING-USING-LSTM/assets/114874837/cb2ab45c-fead-49c9-b64e-1f450ce27b77)
+
+![image](https://github.com/shophiagithub/IBM-STOCK-FORECASTING-USING-LSTM/assets/114874837/21122b22-1024-4a74-b6a7-21bd0b312b3c)
+
+![image](https://github.com/shophiagithub/IBM-STOCK-FORECASTING-USING-LSTM/assets/114874837/45cc0a4b-8a00-45ff-b1f8-5e5e19f28f0a)
+
+![image](https://github.com/shophiagithub/IBM-STOCK-FORECASTING-USING-LSTM/assets/114874837/c981988c-1a9f-4c64-9857-03d962549a5c)
+
+![image](https://github.com/shophiagithub/IBM-STOCK-FORECASTING-USING-LSTM/assets/114874837/de0b6d2d-c035-42b9-80c9-1151adb23e8e)
+
+![image](https://github.com/shophiagithub/IBM-STOCK-FORECASTING-USING-LSTM/assets/114874837/bf10d9c0-2f32-46a7-bf65-99c5bdd9ee0a)
+
 ## Conclusion
 The project successfully demonstrates the application of LSTM networks in stock price forecasting. Future improvements could include incorporating additional features, tuning hyperparameters, and exploring different model architectures.
 
